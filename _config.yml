@@ -30,7 +30,7 @@ twitter_username: darkounet
 github_username:  zamboyle
 
 # Build settings
-theme: minima
+theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
